@@ -1,5 +1,3 @@
-# 📦 Archiving this theme repo due to time constraints. Feel free to fork and continue the development! 🍴
-
 # Nord (with Dynamic Theming)
 
 Nord Themed Spotify
